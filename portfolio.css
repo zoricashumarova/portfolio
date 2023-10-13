@@ -29,7 +29,7 @@ header {
 
 .container .linkSection nav ul li {
   display: inline-block;
-  transition: all 0.9s;
+  transition: all 0.7s;
 }
 
 .container .linkSection nav ul li:hover {
@@ -92,7 +92,7 @@ header {
 }
 
 .portfolioSection .wrapper img:hover {
-  animation: fade-in-from-left 0.5s;
+  animation: fade-in-from-left 0.9s;
 }
 
 .footerSection {
